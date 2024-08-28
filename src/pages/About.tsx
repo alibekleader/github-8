@@ -22,14 +22,8 @@ const About = () => {
 			</p>
 			<p className="text-lg text-gray-400">
 				Layout By:
-				<a className="text-white" href="https://twitter.com/hassibmoddasser">
-					Hassib Moddasser
-				</a>
 			</p>
 			<p className="text-lg text-gray-400">
-				Adapted to TypeScript and Next.JS By:
-				<a className="text-white" href="https://twitter.com/andynwood79">
-					Andy Wood
 				</a>
 			</p>
 		</Page>
